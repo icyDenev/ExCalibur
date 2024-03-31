@@ -1,0 +1,6 @@
+requests
+icalendar
+flask
+flask_pymongo
+perplexityai
+pymongo
